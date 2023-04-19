@@ -1,6 +1,6 @@
 # Calculator Simple 🤖✌️
 
-## 🎯Conceitos e Aprendizado:
+## 🎯Concepts and Learning:
 
 - Create React App
 - Lib - Material UI (Container, Box)
