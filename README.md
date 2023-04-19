@@ -1,6 +1,6 @@
-# Calculator Simple
+# Calculator Simple 🤖✌️
 
-Conceitos e Aprendizado:
+## 🎯Conceitos e Aprendizado:
 
 - Create React App
 - Lib - Material UI (Container, Box)
@@ -10,5 +10,6 @@ Conceitos e Aprendizado:
 - Handling external 'onClick= myFunction()' events
 
 # Link Projeto:
+🔗 https://calculator-react-js-nine.vercel.app/
 
 ![image](https://user-images.githubusercontent.com/91978309/233220236-29761f4b-67d6-46ff-a7d3-53987415cb8c.png)
